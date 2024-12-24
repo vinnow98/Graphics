@@ -1,3 +1,5 @@
-https://vinnow98.github.io/Graphics/followTheMouse/
+![Example Animation](assets/example.gif)
 
-testing
+
+Try it for yourself!
+https://vinnow98.github.io/Graphics/followTheMouse/
